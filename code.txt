@@ -1,0 +1,8 @@
+a=100
+b=400
+c=a+b;
+print ('The value of A is',a)
+print ('The value of B is',b)
+print ('total sum value of a and b is',c )
+print ('This is the end of the program')
+
